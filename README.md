@@ -1,5 +1,5 @@
-- Hi, I’m @douche-v
-- I’m interested in Graphic designing, UI Design and sometimes in Web Development.
+- Hi, I’m Vedit
+- I’m interested in Graphic designing, UI Design and sometimes in Web Development and Machine Learning.
 - I’m currently just struggling with completeing my graduation and also something something.
 - Ping me on my mail - vedit@iitk.ac.in
 
